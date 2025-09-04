@@ -1,4 +1,4 @@
-# wordlist-indonesia-2025V2
+# wordlist indonesia 2025 V2
 Wordlist indonesia 2025 V2
 
 $ git clone https://github.com/spyschools/wordlist-indonesia-2025-V2.git
